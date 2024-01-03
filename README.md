@@ -1,6 +1,6 @@
 <head>
 <h1>Hey, I’m Keith Tan | keidantan</h1>
-  <a href ="https://google.com">My Website</a> <br>
+  <!-- <a href ="https://keidantan.com>My Website</a> <br> -->
   <a href ="https://instagram.com/keidantan">Instagram</a>
 </head>
 
