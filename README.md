@@ -21,7 +21,6 @@
 <hr>
 <footer>
 <p>You can reach me on my discord: @keidantan</p>
-<a href ="https://instagram.com/keidantan">Instagram</a>
 </footer>
 
 <!---
