@@ -3,15 +3,10 @@
 <br>
 <a href ="https://keithdanieltan.com"> My Website </a>
 </head>
-    
-<hr>
-
 <body>
 <hr> 
-  
 - Computer Science @ UNLV, CyberCorps: Scholarship for Service Recipient <br>
 - Cybersecurity, and AI<br>
-
 </body>
 <footer>
 <p>You can reach me on my discord: @keithdanieltan.com</p>
