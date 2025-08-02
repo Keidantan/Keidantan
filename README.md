@@ -7,11 +7,6 @@
 
 <hr>
 <body>
-<!-- <h1>My Projects:</h1> -->
-<!--   <dl>
-    <dt><a href = "https://keidantan.itch.io/flanpy-birnb">Flanpy Birnb</a></dt>
-    <dd>- Flappy Bird Clone </dd>
-  </dl> -->
 <hr> 
 - Computer Science @ UNLV, CyberCorps: Scholarship for Service Recipient <br>
 - Cybersecurity, and AI<br>
