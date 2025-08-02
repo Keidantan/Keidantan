@@ -10,7 +10,7 @@
 <hr>
 </body>
 <footer>
-<p>You can reach me on my discord: @keithdanieltan.com</p>
+<p>You can reach me on my discord: @keithdanieltan</p>
 </footer>
 
 <!---
