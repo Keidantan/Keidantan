@@ -1,8 +1,7 @@
 <head>
 <h1>Hey, I’m Keith Tan | keidantan</h1>
-  <!-- <a href ="https://keidantan.com>My Website</a> <br> -->
+  <a href ="https://keithdanieltan.com>My Website</a> <br>
   <dl>
-  <dt><a href="https://keidantan.itch.io">Itch.io</a></dt>
   </dl>
 </head>
 
@@ -14,13 +13,12 @@
     <dd>- Flappy Bird Clone </dd>
   </dl> -->
 <hr> 
-- I'm a Computer Science student at UNLV. <br>
-- I’m interested in Game Development, and Machine Learning.<br>
-- I’m currently learning Data Structures and Algorithms, and the Unity Game Engine
+- Computer Science @ UNLV, CyberCorps: Scholarship for Service Recipient <br>
+- Cybersecurity, and AI<br>
 </body>
 <hr>
 <footer>
-<p>You can reach me on my discord: @keidantan</p>
+<p>You can reach me on my discord: @keithdanieltan.com</p>
 </footer>
 
 <!---
